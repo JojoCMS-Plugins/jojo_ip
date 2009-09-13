@@ -1,0 +1,1 @@
+Very simple plugin - displays the visitor's IP address on a page.
